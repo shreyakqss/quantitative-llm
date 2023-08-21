@@ -1,0 +1,12 @@
+pandas==1.5.3
+llama-index==0.7.0
+numpy
+langchain==0.0.219
+openai
+flask
+flask-socketio
+python-dotenv
+nltk
+pandasai
+scikit-learn
+flask-cors
